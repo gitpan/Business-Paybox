@@ -3,7 +3,7 @@
 # OO wrapper in Perl for LocalhostListener.jar - PAYBOX.NET
 # Copyright (C) 2000 Dirk Tostmann (tostmann@tosti.com)
 #
-# $rcs = ' $Id: Paybox.pm,v 1.1 2000/12/21 16:40:09 tostmann Exp tostmann $ ' ;	
+# $rcs = ' $Id: Paybox.pm,v 1.2 2000/12/21 16:59:44 tostmann Exp $ ' ;	
 #
 ################################################
 
